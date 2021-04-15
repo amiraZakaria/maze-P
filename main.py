@@ -169,7 +169,7 @@ def grid_clear():
 def read_input():
     i = int(input('Enter Direction : '))
     while not check_valid_direction(i):
-        i = int(input('Enter a valid row index and a valid column index: '))
+        i = int(input('Enter a valid direction: '))
     return i
 
 
