@@ -1,0 +1,12 @@
+Maze game :
+
+Maze is a game depend on one user ,your task is
+find the best way to leaving the maze
+
+Game represented by rectangle 15*10
+
+The grid contain dots : the avalible moves and (|,-)
+this represent walls to prevents the move of uer
+
+Your start in the left ,represent the player by M
+character
